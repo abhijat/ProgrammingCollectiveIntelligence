@@ -1,4 +1,0 @@
-[console_scripts]
-dlcs_feeds = pydelicious.tools.dlcs_feeds:_main
-dlcs = pydelicious.tools.dlcs:_main
-
