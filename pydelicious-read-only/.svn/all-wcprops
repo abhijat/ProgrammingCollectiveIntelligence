@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/71/trunk
+END
+license.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/63/trunk/license.txt
+END
+README.rst
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/64/trunk/README.rst
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/53/trunk/TODO
+END
+CHANGELOG
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/62/trunk/CHANGELOG
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/71/trunk/setup.py
+END
+HACKING.rst
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/42/trunk/HACKING.rst
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/67/trunk/Makefile
+END
